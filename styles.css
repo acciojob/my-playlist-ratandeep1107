@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+body{
+    text-align: center;
+    background-color: #cccccc;
+}
+.player_one{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: left;
+    background-color: white;
+    
+}
+.player_one a{
+    text-decoration: none;
+    color: black;
+}
+.mid_text{
+    margin-top: 0px;
+}
+.player_two{
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+}
+.sec_head{
+    margin-top: 0px;
+}
+#song-name{
+    text-align: left;
+    font-size: 12px;
+}
+
