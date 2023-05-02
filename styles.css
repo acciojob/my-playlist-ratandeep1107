@@ -5,10 +5,12 @@ body{
 .player_one{
     border: 1px solid black;
     border-radius: 8px;
-    padding: 20px;
     text-align: left;
     background-color: white;
     
+}
+.player_one li {
+list-style-type: none;
 }
 .player_one a{
     text-decoration: none;
